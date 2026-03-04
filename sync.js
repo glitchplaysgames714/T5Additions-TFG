@@ -5,7 +5,7 @@ const { execSync } = require('child_process');
 // ⚙️ CONFIGURAÇÕES (Ajuste os caminhos conforme sua estrutura)
 const dirTrabalho = path.resolve(__dirname, './kubejs'); 
 const dirDespejo = path.resolve(__dirname, '../kubejs');   
-const branchGit = 'master'; // Alterado para master conforme o seu log
+const branchGit = 'main'; // Alterado para master conforme o seu log
 
 /**
  * Sincroniza arquivos baseado na data de modificação (mtime)
