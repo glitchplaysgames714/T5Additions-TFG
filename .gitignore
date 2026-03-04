@@ -210,4 +210,8 @@ __marimo__/
 node_modules/
 package.*
 sync.*
+
+# Custom
+deploy.sh
+sync.js
 >>>>>>> master
