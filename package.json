@@ -1,0 +1,12 @@
+{
+  "name": "meu-sincronizador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sync.js",
+  "scripts": {
+    "deploy": "node sync.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
