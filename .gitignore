@@ -1,6 +1,3 @@
 node_modules/
-deploy.sh
-kubejs_injector.py
-package.json
-sync.js
-update.cmd
+package.*
+sync.*
