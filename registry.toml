@@ -4,7 +4,8 @@ name = "t5additions"
 
 # package data
 [tfg-kpm.package]
-recipes = ["registerCreateBigCannonsRecipes(event)"]
+recipes = ["registerCreateBigCannonsRecipes"]
 itemtags = ["registerCreateBigCannonsItemTags"]
 blocktags = []
+
 fluidtags = []
